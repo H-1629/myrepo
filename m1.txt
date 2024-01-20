@@ -1,4 +1,7 @@
 #include<iostream>
+void avltree{
+	//
+}
 int main(){
  std::cout<<"Hello world!!";
  std::cout<<"New world!!";

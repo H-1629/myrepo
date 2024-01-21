@@ -1,7 +1,12 @@
 #include<iostream>
+
 void avltree{
 	//
-	
+}	
+
+void binarytree{
+	//
+
 }
 int main(){
  std::cout<<"Hello world!!";
